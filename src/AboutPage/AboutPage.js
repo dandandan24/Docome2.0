@@ -12,7 +12,7 @@ const AboutPage = (props) => {
        <Hero>
             <Grid container>
                 <Grid item xs = {1}></Grid>
-                <Grid container item xs = {4} style = {{marginTop:'8vh'}} spacing={1}>
+                <Grid container item xs = {4} style = {{marginTop:'4vh'}} spacing={1}>
                     <Grid item xs = {12}>
                         <img src = {RevitalAndSima} style={{width : '100%', objectFit:'contain'}}></img>
                     </Grid>
@@ -24,7 +24,7 @@ const AboutPage = (props) => {
                     </Grid> 
                 </Grid>
                 <Grid item xs = {1.5}></Grid>
-                <Grid container item xs = {5} style = {{justifyContent:'right',marginTop:'8vh'}}>
+                <Grid container item xs = {5} style = {{justifyContent:'right',marginTop:'4vh'}}>
                     <p className='AboutHeader'>קצת על צוות דוקו-מי</p>
                     <p className='AboutSubtext'>את צוות דוקומי מובילות סימה ורויטל – שתיהן עוסקות בתחום <br></br>
                         שהן הכי הכי אוהבות! <br></br>

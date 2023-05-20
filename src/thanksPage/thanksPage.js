@@ -16,7 +16,7 @@ const ThanksPage = (props) => {
               
               </Grid>
               <Grid item xs = {6} style = {{width: '50vw', height:'60vh'}}>
-                <ReactPlayer url='https://www.youtube.com/watch?v=WcIcVapfqXw&list=PLMC9KNkIncKseYxDN2niH6glGRWKsLtde' width="100%" height="100%"/>
+                <ReactPlayer url='https://www.youtube.com/watch?v=RooDETdsaVg' width="100%" height="100%"/>
               </Grid>
               <Grid item xs = {3}>
               

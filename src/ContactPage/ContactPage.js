@@ -11,6 +11,8 @@ import PinterestIcon from '@mui/icons-material/Pinterest';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import notebookAndCamera from './notebookAndCamera.JPEG'
 import emailjs from '@emailjs/browser'
+import { alpha, styled } from '@mui/material/styles';
+
 
 const ContactPage = (props) => {
     const [name, setName] = useState("");
@@ -26,7 +28,14 @@ const ContactPage = (props) => {
         //   });
         console.log("Email Sent")
       };
-
+    const DetailsButton = styled(Button)(({ theme }) => ({
+        color: 'white',
+        backgroundColor: '#F57854',
+       '&:hover': {
+         boxShadow: `0px 0px 0px 8px rgb(245, 120, 84, 0.2)`,
+         backgroundColor : '#F57854'
+       },
+   }));
 
     return(
         <Hero backgroundColor = "#F2EDE7">
@@ -50,18 +59,16 @@ const ContactPage = (props) => {
                         <TextField label = "Type your message here" multiline minRows={7}  style = {{direction : 'rtl', width: '100%'}} value = {message} onChange = {(event) => setMessage(event.target.value)}></TextField>    
                     </Grid> 
                     <Grid container item xs = {12} style = {{justifyContent: 'center'}}>
-                        <Button style={{width: "20vw", height:'7vh', fontSize : '1vw',borderRadius: '8px', backgroundColor : '#F57854', color: 'white'}} onClick = {() => {sendEmail()}}>חזרו אליי</Button>
+                        <DetailsButton variant='contained' style={{width: "20vw", height:'7vh', fontSize : '1vw',borderRadius: '8px', backgroundColor : '#F57854', color: 'white'}} onClick = {() => {sendEmail()}}>צרו איתי קשר</DetailsButton>
                     </Grid>  
-                    <Grid container item xs = {12} style = {{display: 'flex', alignItems:'center'}}>
+                    <Grid container item xs = {12} style = {{display: 'flex', alignItems:'end'}}>
                         <Grid container item xs = {6}>
                                 <a href = "https://instagram.com/doco.me?igshid=YmMyMTA2M2Y="><InstagramIcon style={{fontSize : '2.8vw', borderRadius:'10px',color : '#124770' }}/></a>
                                 <a href = "https://wa.me/0542514444"><WhatsAppIcon  style={{fontSize : '2.8vw', color : '#124770'}}/></a>
                                 <a href = "https://www.facebook.com/itsdocome?mibextid=ZbWKwL"><FacebookIcon style={{fontSize : '2.8vw' , color : '#124770'}}/></a>  
                         </Grid>
                         <Grid item xs = {6} style = {{direction: 'rtl', color : '#211F58'}}>
-                                <p style = {{fontWeight: '500'}}>פרטי התקשרות</p>
-                                <p>054-2514444 <br></br> rparzelina@gmail.com</p>
-                            
+                                <p style = {{fontWeight :'500', fontSize : '1vw', margin:'0'}}>פרטי התקשרות<br></br>054-2514444 <br></br> rparzelina@gmail.com</p>                 
                         </Grid>
                     </Grid>
                  
