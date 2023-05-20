@@ -1,0 +1,15 @@
+.Header{
+    margin-top: 8vh;
+    font-size: 2.2vw;
+    color: white;
+    font-weight: 500;
+    direction: rtl;
+}
+
+.Subtext{
+    font-size: 1.5vw;
+    color: white;
+    direction: rtl;
+    margin: 0;
+    text-align: justify;
+}

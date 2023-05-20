@@ -1,0 +1,28 @@
+
+.whosCubeHeader{
+    font-size: 2vw;
+    color: #124770;
+    font-weight: 500;
+}
+
+.whosCubeHeaderBlue{
+    font-size: 2vw;
+    color: white;
+    font-weight: 500;
+}
+
+.whosCubeText{
+    font-size: 1vw;
+    color: #124770;
+    font-weight: 500;
+    margin-top : -2vh;
+    height: 8vh
+}
+
+.whosCubeTextBlue{
+    font-size: 1vw;
+    color: white;
+    font-weight: 500;
+    margin-top : -2vh;
+    height: 8vh
+}

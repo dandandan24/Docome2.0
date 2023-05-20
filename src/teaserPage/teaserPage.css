@@ -1,0 +1,17 @@
+.TeaserHeader{
+    font-size: 2vw;
+    color: #124770;
+    font-weight: 500;
+    text-align: right;  
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.TeaserSubtext{
+    font-size: 1.5vw;
+    color: #124770;
+    text-align: right;  
+    direction: rtl;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
