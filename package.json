@@ -2,7 +2,7 @@
   "name": "docome-3.0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/dandandan24/Docome2.0.git",
+  "homepage": "https://dandandan24.github.io/Docome2.0",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.10.8",
