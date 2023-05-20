@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Docome2.0/static/css/main.9efd57b2.css",
-    "main.js": "/Docome2.0/static/js/main.fd585ceb.js",
+    "main.js": "/Docome2.0/static/js/main.1e1bf052.js",
     "static/js/787.771a2728.chunk.js": "/Docome2.0/static/js/787.771a2728.chunk.js",
     "static/media/Sima.jpg": "/Docome2.0/static/media/Sima.84e85c86c995895097b4.jpg",
     "static/media/HomepageBackground.jpg": "/Docome2.0/static/media/HomepageBackground.40abccb6637516a00914.jpg",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/Docome2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Docome2.0/index.html",
     "main.9efd57b2.css.map": "/Docome2.0/static/css/main.9efd57b2.css.map",
-    "main.fd585ceb.js.map": "/Docome2.0/static/js/main.fd585ceb.js.map",
+    "main.1e1bf052.js.map": "/Docome2.0/static/js/main.1e1bf052.js.map",
     "787.771a2728.chunk.js.map": "/Docome2.0/static/js/787.771a2728.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9efd57b2.css",
-    "static/js/main.fd585ceb.js"
+    "static/js/main.1e1bf052.js"
   ]
 }
