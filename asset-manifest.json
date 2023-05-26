@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/Docome2.0/static/css/main.d4e17335.css",
-    "main.js": "/Docome2.0/static/js/main.801fab6e.js",
+    "main.css": "/Docome2.0/static/css/main.e223ae1a.css",
+    "main.js": "/Docome2.0/static/js/main.8fc1d2e7.js",
     "static/js/787.771a2728.chunk.js": "/Docome2.0/static/js/787.771a2728.chunk.js",
     "static/media/Sima.jpg": "/Docome2.0/static/media/Sima.84e85c86c995895097b4.jpg",
     "static/media/HomepageBackground.jpg": "/Docome2.0/static/media/HomepageBackground.40abccb6637516a00914.jpg",
     "static/media/RevitalAndSima.jpg": "/Docome2.0/static/media/RevitalAndSima.d7bcce7babdbed955a8b.jpg",
+    "static/media/HomePageBackgroundMobile.jpg": "/Docome2.0/static/media/HomePageBackgroundMobile.da36131587e8b00508ca.jpg",
     "static/media/Revital.jpg": "/Docome2.0/static/media/Revital.0a0f51b24827d4975bdc.jpg",
     "static/media/notebookAndCamera.JPEG": "/Docome2.0/static/media/notebookAndCamera.9e862fa8fba905420e25.JPEG",
     "static/media/TeaserAlbum.jpg": "/Docome2.0/static/media/TeaserAlbum.353f170aad99cfbaae9e.jpg",
@@ -14,12 +15,12 @@
     "static/media/Revital.ttf": "/Docome2.0/static/media/Revital.52c688e769eb4e10dc10.ttf",
     "static/media/logo.svg": "/Docome2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Docome2.0/index.html",
-    "main.d4e17335.css.map": "/Docome2.0/static/css/main.d4e17335.css.map",
-    "main.801fab6e.js.map": "/Docome2.0/static/js/main.801fab6e.js.map",
+    "main.e223ae1a.css.map": "/Docome2.0/static/css/main.e223ae1a.css.map",
+    "main.8fc1d2e7.js.map": "/Docome2.0/static/js/main.8fc1d2e7.js.map",
     "787.771a2728.chunk.js.map": "/Docome2.0/static/js/787.771a2728.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4e17335.css",
-    "static/js/main.801fab6e.js"
+    "static/css/main.e223ae1a.css",
+    "static/js/main.8fc1d2e7.js"
   ]
 }
