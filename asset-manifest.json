@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Docome2.0/static/css/main.a1e4bb85.css",
+    "main.css": "/Docome2.0/static/css/main.24fe7250.css",
     "main.js": "/Docome2.0/static/js/main.b90363b8.js",
     "static/js/787.771a2728.chunk.js": "/Docome2.0/static/js/787.771a2728.chunk.js",
     "static/media/תמונת רוחב סימה ורויטל.jpg": "/Docome2.0/static/media/תמונת רוחב סימה ורויטל.8b1270b6ca0078c2410c.jpg",
@@ -8,7 +8,7 @@
     "static/media/Sima.jpg": "/Docome2.0/static/media/Sima.84e85c86c995895097b4.jpg",
     "static/media/HomePageBackgroundMobile.jpg": "/Docome2.0/static/media/HomePageBackgroundMobile.da36131587e8b00508ca.jpg",
     "static/media/Revital.jpg": "/Docome2.0/static/media/Revital.0a0f51b24827d4975bdc.jpg",
-    "static/media/Segoe UI.svg": "/Docome2.0/static/media/Segoe UI.936fb38d1f658c427287.svg",
+    "static/media/segoeui.ttf": "/Docome2.0/static/media/segoeui.b152665e6a4fddfe348f.ttf",
     "static/media/TeaserAlbum.jpg": "/Docome2.0/static/media/TeaserAlbum.353f170aad99cfbaae9e.jpg",
     "static/media/CameraAndNoteBook.jpg": "/Docome2.0/static/media/CameraAndNoteBook.5d6e237d60745f9fd5c5.jpg",
     "static/media/Dash-Medium.otf": "/Docome2.0/static/media/Dash-Medium.bd0f8e328865a024c79c.otf",
@@ -20,12 +20,12 @@
     "static/media/InstagramEdited.png": "/Docome2.0/static/media/InstagramEdited.b405ac3d9a41dde6451d.png",
     "static/media/logo.svg": "/Docome2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Docome2.0/index.html",
-    "main.a1e4bb85.css.map": "/Docome2.0/static/css/main.a1e4bb85.css.map",
+    "main.24fe7250.css.map": "/Docome2.0/static/css/main.24fe7250.css.map",
     "main.b90363b8.js.map": "/Docome2.0/static/js/main.b90363b8.js.map",
     "787.771a2728.chunk.js.map": "/Docome2.0/static/js/787.771a2728.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1e4bb85.css",
+    "static/css/main.24fe7250.css",
     "static/js/main.b90363b8.js"
   ]
 }
