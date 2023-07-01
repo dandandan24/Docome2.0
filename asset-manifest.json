@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Docome2.0/static/css/main.67c0127a.css",
-    "main.js": "/Docome2.0/static/js/main.8a645eba.js",
+    "main.css": "/Docome2.0/static/css/main.cd46d9d0.css",
+    "main.js": "/Docome2.0/static/js/main.7bacb550.js",
     "static/js/787.771a2728.chunk.js": "/Docome2.0/static/js/787.771a2728.chunk.js",
     "static/media/תמונת רוחב סימה ורויטל.jpg": "/Docome2.0/static/media/תמונת רוחב סימה ורויטל.8b1270b6ca0078c2410c.jpg",
     "static/media/סימה ורויטל בצד שמאל אקסטרה.jpg": "/Docome2.0/static/media/סימה ורויטל בצד שמאל אקסטרה.fc7bdd73b8d0233dc9d4.jpg",
@@ -20,12 +20,12 @@
     "static/media/InstagramEdited.png": "/Docome2.0/static/media/InstagramEdited.b405ac3d9a41dde6451d.png",
     "static/media/logo.svg": "/Docome2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Docome2.0/index.html",
-    "main.67c0127a.css.map": "/Docome2.0/static/css/main.67c0127a.css.map",
-    "main.8a645eba.js.map": "/Docome2.0/static/js/main.8a645eba.js.map",
+    "main.cd46d9d0.css.map": "/Docome2.0/static/css/main.cd46d9d0.css.map",
+    "main.7bacb550.js.map": "/Docome2.0/static/js/main.7bacb550.js.map",
     "787.771a2728.chunk.js.map": "/Docome2.0/static/js/787.771a2728.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67c0127a.css",
-    "static/js/main.8a645eba.js"
+    "static/css/main.cd46d9d0.css",
+    "static/js/main.7bacb550.js"
   ]
 }
